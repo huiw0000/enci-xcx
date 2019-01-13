@@ -1,0 +1,12 @@
+/* component/photo-display/photo-display.wxss */
+ .border-1{
+  padding-left: 10px;
+  padding-top: 10px;
+} 
+.item-list-image{
+  width: 17vw;
+  height: 23vw;
+  padding:10px 20px 10px 20px;
+  background-color: #e6e6e6;
+  border-radius: 10px;
+}

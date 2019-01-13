@@ -1,0 +1,11 @@
+<!--component/product-one-pic/product-one-pic.wxml-->
+<view>
+  <image style='padding:20px;' src='../../static/image/post.png' class='Rectangle-8' />
+  <view class='Rectangle-3'>
+  现代真皮床轻奢双人床
+  <view class='Rectangle-4'>
+    $ 1499
+    </view>
+  </view>
+  
+</view>

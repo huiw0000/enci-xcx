@@ -1,0 +1,9 @@
+<!--component/new-path-navi-pay/new-path-navi-pay.wxml-->
+<view class='navi'>
+<view class='navi-item'>全部</view>
+<view class='navi-item'>待付款</view>
+<view class='navi-item'>待发货</view>
+<view class='navi-item'>待收货</view>
+<view class='navi-item'>待评价</view>
+</view>
+

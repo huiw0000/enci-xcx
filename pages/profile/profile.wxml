@@ -1,0 +1,17 @@
+<!--pages/profile/profile.wxml-->
+<view class='profile-background'>
+<image class='Symbol-1-1' src="../../static/image/shezhi.png" />
+<image class='Symbol-1-1' src="../../static/image/richengbiao.png" />
+<view class='title'>
+<image class='Symbol-1-2' src="../../static/image/3.png" />
+<view>用户id:123456</view>
+</view>
+</view>
+
+<profile-money></profile-money>
+
+<profile-footer></profile-footer>
+
+<profile-share></profile-share>
+
+<new-tab-my></new-tab-my>

@@ -1,0 +1,287 @@
+<view style='width:100%;text-align:center'>
+  <search-bar></search-bar>
+</view>
+<button bindtap='test'>testDate</button>
+<view bindtap='goods' class='Rectangle-2'>
+</view>
+
+<view style='margin-top:10px;background-color:#fff'>
+  <view class='text-title' style='padding-top:20px;padding-left:20px;'>
+    {{test.name}}
+  </view>
+  <view style='text-align:center;padding-top:20px;padding-bottom:10px;display: flex;align-items: center;justify-content: center;'>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-square></product-type-square>
+    </view>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-square></product-type-square>
+    </view>
+    <view></view>
+  </view>
+  <view style='text-align:center;padding-top:20px;padding-bottom:20px;display: flex;align-items: center;justify-content: center;'>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-square></product-type-square>
+    </view>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-square></product-type-square>
+    </view>
+    <view></view>
+  </view>
+
+  <view style='text-align: center;'>
+    <view bindtap='more' class="Rectangle-4" style='text-align: left;'>
+      <view class='Rectangle-4-more'>
+        查看更多
+      </view>
+      <image class='Symbol-1-2' src="../../static/image/back.png" />
+    </view>
+  </view>
+</view>
+
+<view style='margin-top:10px;background-color:#fff'>
+  <view class='text-title' style='padding-top:20px;padding-left:20px;'>
+    今天的交易详情
+  </view>
+  <view bindtap='goods' class="Rectangle-5">
+    <product-type-rectangle></product-type-rectangle>
+  </view>
+  <view bindtap='goods' class="Rectangle-5">
+    <product-type-rectangle></product-type-rectangle>
+  </view>
+  <view bindtap='goods' class="Rectangle-5">
+    <product-type-rectangle></product-type-rectangle>
+  </view>
+  <view bindtap='more' style='text-align: center;margin-top:-12px;'>
+    <view  class="Rectangle-4" style='text-align: left;'>
+      <view class='Rectangle-4-more'>
+        查看更多
+      </view>
+      <image class='Symbol-1-2' src="../../static/image/back.png" />
+    </view>
+  </view>
+</view>
+
+<view style='margin-top:10px;background-color:#fff'>
+  <view class='text-title' style='padding-top:20px;padding-left:10px;'>
+    折扣促销
+  </view>
+  <view style='text-align:center;padding-top:20px;padding-bottom:20px;display: flex;align-items: center;justify-content: center;'>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-rs></product-type-rs>
+    </view>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-rs></product-type-rs>
+    </view>
+  </view>
+  <view style='text-align:center;padding-top:20px;padding-bottom:20px;display: flex;align-items: center;justify-content: center;'>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-rs></product-type-rs>
+    </view>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-rs></product-type-rs>
+    </view>
+  </view>
+  <view bindtap='more' style='text-align: center;'>
+    <view class="Rectangle-4" style='text-align: left;'>
+      <view class='Rectangle-4-more'>
+        查看更多
+      </view>
+      <image class='Symbol-1-2' src="../../static/image/back.png" />
+    </view>
+  </view>
+</view>
+
+<view style='background-color:white;margin-top:10px'>
+  <view class='text-title' style='padding:20px'>
+    全新推荐
+  </view>
+  <view bindtap='goods'>
+    <nine-square></nine-square>
+  </view>
+  <view bindtap='more' style='text-align: center;'>
+    <view class="Rectangle-4" style='text-align: left;'>
+      <view class='Rectangle-4-more'>
+        查看更多
+      </view>
+      <image class='Symbol-1-2' src="../../static/image/back.png" />
+    </view>
+  </view>
+</view>
+
+<view style='background-color:white;margin-top:10px;text-align: center;'>
+  <view class='text-title' style='padding:20px'>
+    每日推荐
+  </view>
+  <view bindtap='goods'>
+  <image style='padding:20px;' src='../../static/image/post.png' class='Rectangle-7' />
+  </view>
+</view>
+
+<view style='margin-top:10px;background-color:#fff'>
+  <view class='text-title' style='padding-top:20px;padding-left:20px;'>
+    品牌特卖
+  </view>
+  <view style='text-align:center;padding-top:20px;padding-bottom:20px;display: flex;align-items: center;justify-content: center;'>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-rs></product-type-rs>
+    </view>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-rs></product-type-rs>
+    </view>
+  </view>
+  <view style='text-align:center;padding-top:20px;padding-bottom:20px;display: flex;align-items: center;justify-content: center;'>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-rs></product-type-rs>
+    </view>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-rs></product-type-rs>
+    </view>
+  </view>
+  <view bindtap='more' style='text-align: center;'>
+    <view class="Rectangle-4" style='text-align: left;'>
+      <view class='Rectangle-4-more'>
+        查看更多
+      </view>
+      <image class='Symbol-1-2' src="../../static/image/back.png" />
+    </view>
+  </view>
+</view>
+
+<view bindtap='goods' class='Rectangle-2'>
+</view>
+
+<view style='margin-top:10px;background-color:#fff'>
+  <view class='text-title' style='padding-top:20px;padding-left:10px;'>
+    逛逛二手
+  </view>
+  <view style='text-align:center;padding-top:20px;padding-bottom:10px;display: flex;align-items: center;justify-content: center;'>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-square></product-type-square>
+    </view>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-square></product-type-square>
+    </view>
+    <view></view>
+  </view>
+  <view style='text-align:center;padding-top:20px;padding-bottom:20px;display: flex;align-items: center;justify-content: center;'>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-square></product-type-square>
+    </view>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-square></product-type-square>
+    </view>
+    <view></view>
+  </view>
+</view>
+
+<view style='background-color:white;margin-top:10px'>
+  <view class='text-title' style='padding:10px'>
+  二手推荐
+  </view>
+  <view bindtap='goods'>
+    <nine-square></nine-square>
+  </view>
+  <view style='text-align: center;'>
+    <view bindtap='more' class="Rectangle-4" style='text-align: left;margin-top:10px;'>
+      <view class='Rectangle-4-more'>
+        查看更多
+      </view>
+      <image class='Symbol-1-2' src="../../static/image/back.png" />
+    </view>
+  </view>
+</view>
+
+<view style='margin-top:10px;background-color:#fff'>
+  <view class='text-title' style='padding-top:20px;padding-left:10px;'>
+    折扣促销
+  </view>
+  <view style='text-align:center;padding-top:20px;padding-bottom:20px;display: flex;align-items: center;justify-content: center;'>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-rs></product-type-rs>
+    </view>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-rs></product-type-rs>
+    </view>
+  </view>
+  <view style='text-align:center;padding-top:20px;padding-bottom:20px;display: flex;align-items: center;justify-content: center;'>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-rs></product-type-rs>
+    </view>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-type-rs></product-type-rs>
+    </view>
+  </view>
+  <view bindtap='more' style='text-align: center;'>
+    <view class="Rectangle-4" style='text-align: left;'>
+      <view class='Rectangle-4-more'>
+        查看更多
+      </view>
+      <image class='Symbol-1-2' src="../../static/image/back.png" />
+    </view>
+  </view>
+</view>
+
+<view bindtap='goods' class='Rectangle-2'>
+</view>
+
+<view style='background-color:white;margin-top:10px;text-align: center;'>
+  <view class='text-title' style='padding:20px'>
+    猜你喜欢
+  </view>
+  <view bindtap='goods'>
+  <product-one-pic></product-one-pic>  
+  </view>
+  <view bindtap='more' style='text-align: center;'>
+    <view class="Rectangle-4" style='text-align: left;'>
+      <view class='Rectangle-4-more'>
+        查看所有商品
+      </view>
+      <image class='Symbol-1-2' src="../../static/image/back.png" />
+    </view>
+  </view>
+</view>
+
+<view style='margin-top:10px;background-color:#fff'>
+  <view class='text-title' style='padding-top:20px;padding-left:10px;'>
+    免费领取二手商品
+  </view>
+  <view style='text-align:center;padding-top:20px;padding-bottom:20px;display: flex;align-items: center;justify-content: center;'>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-no-price></product-no-price>
+    </view>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-no-price></product-no-price>
+    </view>
+  </view>
+  <view style='text-align:center;padding-top:20px;padding-bottom:20px;display: flex;align-items: center;justify-content: center;'>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-no-price></product-no-price>
+    </view>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-no-price></product-no-price>
+    </view>
+  </view>
+  <view style='text-align:center;padding-top:20px;padding-bottom:20px;display: flex;align-items: center;justify-content: center;'>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-no-price></product-no-price>
+    </view>
+    <view bindtap='goods' class="Rectangle-3">
+      <product-no-price></product-no-price>
+    </view>
+  </view>
+  <view bindtap='more' style='text-align: center;'>
+    <view class="Rectangle-4" style='text-align: left;'>
+      <view class='Rectangle-4-more'>
+        查看更多
+      </view>
+      <image class='Symbol-1-2' src="../../static/image/back.png" />
+    </view>
+  </view>
+</view>
+
+<view class='item-list'>
+  <item-list></item-list>
+</view>
+
+<new-tab>
+</new-tab>

@@ -1,0 +1,19 @@
+<!--component/profile-share/profile-share.wxml-->
+<view class='contain'>
+<view class='distance'>
+<image class='Symbol-1-2' src="../../static/image/release-2.jpg" />
+  <view>我的发布</view>
+</view>
+<view class='distance'>
+<image class='Symbol-1-2' src="../../static/image/hezuo.png" />
+  <view>合作加盟</view>
+</view>
+<view class='distance'>
+<image class='Symbol-1-2' src="../../static/image/youhuiquan.png" />
+  <view>优惠券</view>
+</view>
+<view class='distance'>
+<image class='Symbol-1-2' src="../../static/image/wodezuji.png" />
+  <view>我的足迹</view>
+</view>
+</view>

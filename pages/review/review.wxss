@@ -1,0 +1,120 @@
+/* pages/review/review.wxss */
+page {
+  background-color: #e6e6e6;
+}
+.total{
+  padding-top: 10px;
+  width:100%;
+  display: flex;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: white;
+}
+.first, .second, .third{
+  display: flex;
+  padding: 15px 0 15px 30px;
+}
+.first-image, .second-image, .third-image{
+    width:16px;
+    height:12px;
+    padding-top:5px;
+    padding-right: 5px;
+}
+.title-image{
+  width:40px;
+  height: 50px;
+  padding: 10px 0 10px 10px;
+}
+.inputArea{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: white;
+}
+.review{
+  height: auto;
+  width: 100%;
+  padding-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.share{
+  position: relative;
+}
+.pics-word{
+  position: absolute;
+  font-size: 10px;
+  color: rgba(0, 0, 0, 0.4);
+  bottom: 20px;
+  left: 20px;
+}
+.pics{
+  width: 80px;
+  height: 80px;
+}
+.review textarea{
+  font-size: 15px;
+  height: 100px;
+}
+
+.noName-block{
+  display: flex;
+  position: relative;
+  background-color: white;
+  padding: 10px 20px 10px 20px;
+  margin-bottom: 20px;
+}
+.noName-image{
+  width: 20px;
+  height: 20px;
+  padding-top:3px;
+  padding-right: 10px;
+}
+.help{
+  font-size: 15px;
+  position: absolute;
+  right: 20px;
+  color: rgba(0, 0, 0, 0.5);
+}
+.rate{
+  background: white;
+  width: 100%;
+  padding:10px 20px 40px 20px;
+}
+.storeTitle{
+  display: flex;
+}
+.rate image{
+  width: 13px;
+  height: 13px;
+  padding-right: 10px;
+  padding-top: 3px;
+}
+.itemList{
+  display: flex;
+  padding-top: 10px;
+}
+.rates{
+  display: flex;
+  padding-left: 30px;
+}
+.rates image{
+  width: 13px;
+  height: 13px;
+}
+.carriage{
+  color: green;
+}
+.description{
+  color: orangered;
+}
+.service{
+  color: yellow;
+}
+.submit{
+  color: white;
+  background-color: orangered;
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  border-radius: 10px;
+  margin-left: -6px;
+}

@@ -1,0 +1,23 @@
+/* component/product-one-pic/product-one-pic.wxss */
+.Rectangle-8{
+  width:200px;
+  height:200px;
+  text-align: center;
+}
+.Rectangle-3{
+  width: 340px;
+  height: 44px;
+  font-size: 18px;
+  color: #1d1d1d;
+  text-align: justify;
+  line-height: 22px;
+  margin-left: 30px;
+  vertical-align: top;
+}
+.Rectangle-4 {
+  font-size:18px;
+color:#FF9000;
+margin-left: 80px;
+text-align:justify;
+display:inline-block;
+}

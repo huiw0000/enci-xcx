@@ -1,0 +1,11 @@
+/* component/product-no-price/product-no-price.wxss */
+.Rectangle-1 {
+  width: 160px;
+  height: 80px;
+  background-color: #e6e6e6;
+}
+.Rectangle-2 {
+  font-size: 15px;
+  color: #1d1d1d;
+  text-align: justify;
+}

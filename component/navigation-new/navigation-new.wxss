@@ -1,0 +1,24 @@
+/* component/navigation-new/navigation-new.wxss */
+.nagivation-new{
+  padding-top:10px;
+  padding-bottom: 10px;
+}
+/* .nagivation-new view:first-child{
+  margin-left: 30px;
+} */
+.nagitation-item{
+ margin-left: 20px;
+  font-size: 14px;
+}
+.active{
+  font-weight: bold;
+}
+.notify{
+  border-radius:4px;
+  color:white;
+  background-color:red;
+  font-size:8px;
+  height:8px;
+  width:20px;
+  text-align:center;
+}

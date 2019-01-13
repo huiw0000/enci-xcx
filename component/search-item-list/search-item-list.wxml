@@ -1,0 +1,27 @@
+<!--component/search-item-list/search-item-list.wxml-->
+<view class='contain'>
+<view class='photo'> 
+<image class='item-list-image' src='../../static/image/ice.png'/>
+</view>
+  <view class='details'>
+    <view class='first-line'>
+      <view style='background:url("../../static/search/border2.png")' class='tab'>
+        自营
+      </view>
+      <view>
+       美乐 (MEILE) 7.5公斤
+      </view>
+    </view>
+    <view class='content'>
+      洗衣机 智能模糊控制
+    </view>
+    <view class='price-contain'>
+      <view class='previous-price'>
+        ￥899.00
+      </view>
+      <view class='now-price'>
+        ￥569.00
+      </view>
+    </view>
+  </view>
+</view>

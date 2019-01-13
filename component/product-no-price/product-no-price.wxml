@@ -1,0 +1,8 @@
+<!--component/product-no-price/product-no-price.wxml-->
+<view>
+  <view class='Rectangle-1'>
+  </view>
+  <view class='Rectangle-2'>
+    经典单人沙发
+  </view>
+</view>

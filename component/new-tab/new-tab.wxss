@@ -1,0 +1,44 @@
+/* component/new-tab/new-tab.wxss */
+
+.Rectangle-1 {
+  width: 100%;
+  height: 77px;
+  position: fixed;
+  bottom: 0;
+  text-align: center;
+}
+
+.Rectangle-1-bg {
+  width: 100%;
+  height: 77px;
+  position: fixed;
+  bottom: 0;
+  left:0;
+  z-index: -10;
+}
+
+.Symbol-1-1 {
+  width: 50px;
+  height: 50px;
+  margin-top:-35px;
+}
+
+.Symbol-1-2 {
+  width: 24px;
+  height: 24px;
+}
+
+.Symbol-1-2-text {
+  font-size: 10px;
+  color: #999;
+  margin-top: -5px;
+}
+
+.Rectangle-2 {
+  width: 20%;
+  left: 0;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 35px;
+}

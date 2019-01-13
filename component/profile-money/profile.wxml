@@ -1,0 +1,23 @@
+<!--component/profile/profile.wxml-->
+<view class='contain'>
+<view bindtap='pay' class='distance'>
+<image class='Symbol-1-2' src="../../static/image/daifukuan-2.jpg" />
+  <view>待付款</view>
+</view>
+<view bindtap='gettingItem' class='distance'>
+<image class='Symbol-1-2' src="../../static/image/nogoods.png" />
+  <view>待收货</view>
+</view>
+<view bindtap='review' class='distance'>
+<image class='Symbol-1-2' src="../../static/image/daipingjia3.png" />
+  <view>待评价</view>
+</view>
+<view bindtap='return' class='distance'>
+<image class='Symbol-1-2' src="../../static/image/icontuihuoshouhou.jpg" />
+  <view>退换/售后</view>
+</view>
+<view bindtap='bookingList'  class='distance'>
+<image class='Symbol-1-2' src="../../static/image/quanbudingdan.jpg" />
+  <view>全部订单</view>
+</view>
+</view>

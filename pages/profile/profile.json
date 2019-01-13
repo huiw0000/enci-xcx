@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "profile-money": "../../component/profile-money/profile",
+    "profile-share": "../../component/profile-share/profile-share",
+    "profile-footer": "../../component/profile-footer/profile-footer",
+    "new-tab-my": "../../component/new-tab-my/new-tab"
+  },
+  "navigationBarTitleText": "我的资料"
+}

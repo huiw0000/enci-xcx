@@ -1,0 +1,17 @@
+<!--pages/path/path.wxml-->
+<!-- <view class='title'>
+<image src='../../static/image/arrow.png'/>
+<view class='my-foot'>我的足迹</view>
+</view> -->
+<new-path-navi></new-path-navi>
+
+<view class='second'>
+<view class='second-first'>共30条, 最多为您保存30条</view>
+<view class='second-second'>编辑</view>
+</view>
+<view>
+<path-item-list></path-item-list>
+<path-item-list></path-item-list>
+<path-item-list></path-item-list>
+<path-item-list></path-item-list>
+</view>

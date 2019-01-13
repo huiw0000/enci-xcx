@@ -1,0 +1,101 @@
+/* pages/pay/pay.wxss */
+page{
+  background-color: #e6e6e6;
+}
+.item{
+  display: flex;
+  position: relative;
+  width: 90%;
+  padding-top: 10px;
+  margin-left:auto;
+margin-right:auto;
+  height: auto;
+  font-size: 15px;
+}
+.status{
+  position: absolute;
+  right: 0;
+  color: red;
+
+}
+.content{
+  display: flex;
+}
+.item-box{
+  width: 95%;
+  margin-left:auto;
+  margin-right:auto;
+  border-radius: 10px;
+  background: white;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+.title-image{
+  width:28px;
+  height:30px;
+  padding-right: 10px;
+}
+.more-image{
+  width:12px;
+height:24px;
+  margin-left: 10px;
+}
+
+.item-image{
+  width:30%;
+  height:100px;
+padding:20px;
+
+}
+.item-content{
+  width: 70%;
+}
+.first, .second{
+  display: flex;
+  position: relative;
+  width: 90%;
+}
+.first{
+  font-size: 15px;
+}
+.last{
+  font-size: 10px;
+  color: orangered;
+  margin-top: 20px;
+}
+.second{
+  opacity: 0.5;
+  font-size: 13px;
+}
+.price{
+  position: relative;
+  font-size: 15px;
+  margin-top: 40px;
+  margin-right: 10%;
+}
+.first view:last-child, .second view:last-child, .price view{
+  position: absolute;
+  right: 0;
+}
+.bottom-list{
+  width: 100%;
+  display: flex;
+  text-align: right;
+  padding-top: 10px;
+  padding-left: 150px;
+}
+.bottom-list view:not(:last-child){
+  border: 1px solid black;
+  border-radius: 30px;
+  padding:5px;
+  font-size:10px;
+  margin-right: 15px;
+}
+.bottom-list view:last-child{
+  border: 1px solid orangered;
+  border-radius: 30px;
+  padding:5px;
+  font-size:10px;
+  color: orangered;
+}

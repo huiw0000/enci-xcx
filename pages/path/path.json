@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "new-path-navi": "../../component/new-path-navi/new-path-navi",
+    "path-item-list": "../../component/path-item-list/path-item-list"
+  },
+  "navigationBarTitleText": "我的足迹"
+}

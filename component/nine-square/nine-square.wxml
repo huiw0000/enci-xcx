@@ -1,0 +1,5 @@
+<view style='margin-left:5%'>
+  <view wx:for="{{url}}" style='display: inline-block;width:30%;margin-right:3%'>
+    <image class='Rectangle-1' src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Square_with_corners.svg/2000px-Square_with_corners.svg.png" />
+  </view>
+</view>

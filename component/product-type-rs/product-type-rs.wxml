@@ -1,0 +1,17 @@
+<view>
+  <view class='Rectangle-1'>
+    <view class='Rectangle-1-1'>
+      -32%
+    </view>
+  </view>
+  <view class='Rectangle-2'>
+    经典单人沙发
+  </view>
+
+  <view class='Rectangle-4'>
+    $ 1499
+    <view style='text-decoration:line-through;display:inline-block;opacity: 0.4;color: #1D1D1D;'>
+      $ 1599
+    </view>
+  </view>
+</view>

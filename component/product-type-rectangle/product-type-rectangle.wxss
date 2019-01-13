@@ -1,0 +1,45 @@
+/* component/product-type-rectangle/product-type-rectangle.wxss */
+
+.Rectangle-1 {
+  width: 80px;
+  height: 80px;
+  background-color: #e6e6e6;
+  display: inline-block;
+}
+
+.Rectangle-2 {
+  width: 240px;
+  height: 44px;
+  display: inline-block;
+  font-size: 15px;
+  color: #1d1d1d;
+  text-align: justify;
+  line-height: 22px;
+  margin-left: 10px;
+  vertical-align: top;
+}
+
+.Rectangle-3 {
+  opacity: 0.4;
+  font-size: 12px;
+  color: #1d1d1d;
+  text-align: justify;
+  display: inline-block;
+}
+
+.Rectangle-4 {
+  font-size: 18px;
+  color: #ff9000;
+  text-align: justify;
+  display: inline-block;
+  width: 180px;
+}
+
+.Rectangle-5 {
+  margin-top: 15px;
+  padding-bottom: 10px;
+  width: 240px;
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+  border-color: #e6e6e6;
+}

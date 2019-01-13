@@ -1,0 +1,106 @@
+<!--pages/pay/pay.wxml-->
+<new-path-navi-pay></new-path-navi-pay>
+<view class='item-box'>
+  <view class='item'>
+  <image class='title-image' src='../../static/bookingList/store.png'/>
+  <view class='title'>美乐专卖店</view>
+  <image class='more-image' src='../../static/image/back.png'/>
+  <view class='status'>卖家已发货</view>
+  </view>
+  <view class='content'>
+    <image class='item-image' src='../../static/image/ice.png'/>
+    <view class='item-content'>
+      <view class='first'>
+        <view>美乐7.5公斤</view>
+        <view>￥10.00</view>
+      </view>
+      <view class='second'>
+        <view>洗衣机 智能莫夫控制 迷你苏西</view>
+        <view>*14</view>
+      </view>
+      <view class='last'>
+        公益捐赠0.21元
+      </view>
+      <view class='price'>
+      <view>
+       共14件商品 合计: 140.00      
+      </view>
+      </view>
+    </view>
+  </view>
+  <view class='bottom-list'>
+    <view>查看物流</view>
+    <view>延长收货</view>
+    <view class='confirm'>确认收货</view>
+  </view>
+</view>
+
+<view class='item-box'>
+  <view class='item'>
+  <image class='title-image' src='../../static/bookingList/store.png'/>
+  <view class='title'>美乐专卖店</view>
+  <image class='more-image' src='../../static/image/back.png'/>
+  <view class='status'>卖家已发货</view>
+  </view>
+  <view class='content'>
+    <image class='item-image' src='../../static/image/ice.png'/>
+    <view class='item-content'>
+      <view class='first'>
+        <view>美乐7.5公斤</view>
+        <view>￥10.00</view>
+      </view>
+      <view class='second'>
+        <view>洗衣机 智能莫夫控制 迷你苏西</view>
+        <view>*14</view>
+      </view>
+      <view class='last'>
+        公益捐赠0.21元
+      </view>
+      <view class='price'>
+      <view>
+       共14件商品 合计: 140.00      
+      </view>
+      </view>
+    </view>
+  </view>
+  <view class='bottom-list'>
+    <view>查看物流</view>
+    <view>延长收货</view>
+    <view class='confirm'>确认收货</view>
+  </view>
+</view>
+
+<view class='item-box'>
+  <view class='item'>
+  <image class='title-image' src='../../static/bookingList/store.png'/>
+  <view class='title'>美乐专卖店</view>
+  <image class='more-image' src='../../static/image/back.png'/>
+  <view class='status'>卖家已发货</view>
+  </view>
+  <view class='content'>
+    <image class='item-image' src='../../static/image/ice.png'/>
+    <view class='item-content'>
+      <view class='first'>
+        <view>美乐7.5公斤</view>
+        <view>￥10.00</view>
+      </view>
+      <view class='second'>
+        <view>洗衣机 智能莫夫控制 迷你苏西</view>
+        <view>*14</view>
+      </view>
+      <view class='last'>
+        公益捐赠0.21元
+      </view>
+      <view class='price'>
+      <view>
+       共14件商品 合计: 140.00      
+      </view>
+      </view>
+    </view>
+  </view>
+  <view class='bottom-list'>
+    <view>查看物流</view>
+    <view>延长收货</view>
+    <view class='confirm'>确认收货</view>
+  </view>
+</view>

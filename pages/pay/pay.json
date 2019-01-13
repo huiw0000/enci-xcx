@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "new-path-navi-pay": "../../component/new-path-navi-pay/new-path-navi-pay"
+  },
+  "navigationBarTitleText": "我的订单"
+}

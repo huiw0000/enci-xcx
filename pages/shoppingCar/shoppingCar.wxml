@@ -1,0 +1,127 @@
+<!--pages/shoppingCar/shoppingCar.wxml-->
+<view class='addressView'>
+  <image class='addressImage' src='../../static/shoppingCar/map.png'/>
+  <view class='address'>396/348 WhiteHorse Rd, Nunawading</view>
+  <view class='addressEdit'>编辑商品</view>
+</view>
+
+<view class='cal-block'>
+  <view class='cal-first'>
+    <image class='circle' src='../../static/shoppingCar/circle.png'/>
+    <view class='title'>ENCI</view>
+    <view>自营自营</view>
+    <view class='extra'>
+    <image class='symble' src='../../static/shoppingCar/symble.png'/>
+    <view class='hint'>已免运费</view>
+    </view>
+  </view>
+</view>
+
+<view class='item-list'>
+  <view class='item-extra'>
+    <image class='manjian' src='../../static/shoppingCar/manjian.png'/>
+    <view class='require'>已购满4000元, 已减40元</view>
+    <view class='vochure'>优惠券</view>
+  </view>
+  <view class='item-content'>
+    <image class='checked' src='../../static/shoppingCar/checked.png'/>
+    <image class='ice' src='../../static/image/ice.png'/>
+    <view class='detail'>
+      <view>
+        美乐 (MEILE) 7.5公斤
+      </view>
+      <view class='function'>
+        洗衣机 职能模糊控制
+      </view>
+      <view class='price'>
+        <view>
+          $569.00
+        </view>
+        <view class='jiajian'>
+          <image class='jia' src='../../static/shoppingCar/jia.png'/>
+          <image class='shuzikuang' src='../../static/shoppingCar/shuzikuang.png'/>
+          <image class='jian' src='../../static/shoppingCar/jian.png'/>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='extra-service'>
+  <view class='firstLine'>  
+    <view>
+      促销
+    </view>
+    <view class='service'>
+      满1000元减100元
+    </view>
+    <view class='number'>
+      4个可选
+    </view>
+    <image src='../../static/shoppingCar/expand-bottom.png'/>
+  </view>
+  <view class='secondLine'>
+    <view>
+      服务
+    </view>
+    <view class='service'>
+      选择增至服务
+    </view>
+    <image src='../../static/shoppingCar/expand-right.png'/>
+  </view>
+</view>
+</view>
+
+<view class='item-list'>
+  <view class='item-extra'>
+    <image class='manjian' src='../../static/shoppingCar/manjian.png'/>
+    <view class='require'>已购满4000元, 已减40元</view>
+    <view class='vochure'>优惠券</view>
+  </view>
+  <view class='item-content'>
+    <image class='checked' src='../../static/shoppingCar/checked.png'/>
+    <image class='ice' src='../../static/image/ice.png'/>
+    <view class='detail'>
+      <view>
+        美乐 (MEILE) 7.5公斤
+      </view>
+      <view class='function'>
+        洗衣机 职能模糊控制
+      </view>
+      <view class='price'>
+        <view>
+          $569.00
+        </view>
+        <view class='jiajian'>
+          <image class='jia' src='../../static/shoppingCar/jia.png'/>
+          <image class='shuzikuang' src='../../static/shoppingCar/shuzikuang.png'/>
+          <image class='jian' src='../../static/shoppingCar/jian.png'/>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class='extra-service'>
+  <view class='firstLine'>  
+    <view>
+      促销
+    </view>
+    <view class='service'>
+      满1000元减100元
+    </view>
+    <view class='number'>
+      4个可选
+    </view>
+    <image src='../../static/shoppingCar/expand-bottom.png'/>
+  </view>
+  <view class='secondLine'>
+    <view>
+      服务
+    </view>
+    <view class='service'>
+      选择增至服务
+    </view>
+    <image src='../../static/shoppingCar/expand-right.png'/>
+  </view>
+</view>
+</view>
+
+
+

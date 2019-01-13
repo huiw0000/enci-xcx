@@ -1,0 +1,38 @@
+<view class='Rectangle-1'>
+  <image src="http://www.enci.com.au/static/image/tab.png" class='Rectangle-1-bg' />
+
+  <view class='Rectangle-2'>
+    <image id="home" bindtap='onActiveTab' class='Symbol-1-2' src="{{url[0]}}" />
+    <view class='Symbol-1-2-text'>
+      首页
+    </view>
+  </view>
+
+  <view class='Rectangle-2'>
+    <image class='Symbol-1-2' src="{{url[1]}}" />
+    <view class='Symbol-1-2-text'>
+      分类
+    </view>
+  </view>
+
+  <view class='Rectangle-2'>
+    <image class='Symbol-1-1' src="http://www.enci.com.au/static/image/post.png" />
+    <view class='Symbol-1-2-text' style='margin-top:0px;'>
+      晒晒
+    </view>
+  </view>
+
+  <view class='Rectangle-2'>
+    <image class='Symbol-1-2' src="http://www.enci.com.au/static/image/shop-1.png" />
+    <view class='Symbol-1-2-text'>
+      购物车
+    </view>
+  </view>
+
+  <view class='Rectangle-2'>
+    <image class='Symbol-1-2' src="http://www.enci.com.au/static/image/mine-2.png" />
+    <view class='Symbol-1-2-text'>
+      我的
+    </view>
+  </view>
+</view>

@@ -1,0 +1,24 @@
+/* pages/search/search.wxss */
+.title{
+  width: 100%;
+  display: flex;
+  position: relative;
+  background-color: white;
+}
+.title image{
+  position: absolute;
+  width:15px;
+  height:20px;
+  left: 20px;
+}
+.my-foot{
+  margin-left: auto;
+  margin-right:auto;
+  font-weight: bold;
+}
+.item-list{
+  display: flex;
+  overflow: hidden;
+  padding-bottom: 10px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1)
+}

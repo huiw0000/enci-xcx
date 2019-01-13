@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "new-search-bar": "../../component/new-search-bar/new-search-bar",
+    "search-bar": "../../component/search-bar/search-bar",
+    "search-item-list": "../../component/search-item-list/search-item-list",
+    "photo-display": "../../component/photo-display/photo-display",
+    "new-filter": "../../component/new-filter/new-filter",
+    "type-filter": "../../component/type-filter/type-filter"
+  },
+  "navigationBarTitleText": "搜索"
+}

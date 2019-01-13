@@ -1,0 +1,26 @@
+<!--pages/search/search.wxml-->
+<!-- <view class='title'>
+<image src='../../static/image/arrow.png'/>
+<view class='my-foot'>搜索</view>
+</view> -->
+<search-bar></search-bar>
+<new-search-bar></new-search-bar>
+<view class='item-list'>
+<photo-display></photo-display>
+<photo-display></photo-display>
+<photo-display></photo-display>
+<photo-display></photo-display>
+<photo-display></photo-display>
+</view>
+<view>
+<new-filter></new-filter>
+</view>
+<view>
+<type-filter></type-filter>
+</view>
+
+<view>
+<search-item-list></search-item-list>
+<search-item-list></search-item-list>
+<search-item-list></search-item-list>
+</view>

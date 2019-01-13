@@ -1,0 +1,6 @@
+<!--component/new-path-navi/new-path-navi.wxml-->
+<view class='navi'>
+<view class='navi-item'>搜索</view>
+<view class='navi-item'>商品</view>
+<view class='navi-item'>店铺</view>
+</view>

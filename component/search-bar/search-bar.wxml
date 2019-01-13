@@ -1,0 +1,16 @@
+<view style='background-color:#fff'>
+  <view class="Rectangle-1">
+    <!--scanner-->
+   <view class='Rectangle-1-2'>
+      <image class='Symbol-1-2' src="../../static/image/scan.png" />
+    </view>
+    <view class='Rectangle-1-1'>
+      <image class='Symbol-1-1' src="../../static/image/search.png" />
+      <input class="Rectangle-1-1-text" placeholder='搜索您感兴趣的内容' placeholder-class='Rectangle-1-1-text-ph'></input>
+      <image class='Symbol-1-1' src="../../static/image/camaro.png" />
+    </view>
+    <view class='Rectangle-1-2'>
+      <image class='Symbol-1-2' src="../../static/image/message.png" />
+    </view>
+  </view>
+</view>

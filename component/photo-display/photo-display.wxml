@@ -1,0 +1,4 @@
+<!--component/photo-display/photo-display.wxml-->
+<view class='border-1'>
+<image class='item-list-image' src='../../static/image/ice.png'/>
+</view>

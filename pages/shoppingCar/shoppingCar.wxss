@@ -1,0 +1,195 @@
+/* pages/shoppingCar/shoppingCar.wxss */
+page {
+  background-color: #e6e6e6;
+}
+.addressView{
+  background-color: white;
+  display: flex;
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+  font-size: 15px;
+  position: relative;
+  overflow: hidden;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.address{
+  color: rgba(0, 0, 0, 0.5);
+  padding-left: 10px;
+}
+.addressImage{
+  width: 20px;
+  height: 20px;
+  padding-left: 10px;
+}
+.addressEdit{
+  color: orangered;
+  position: absolute;
+  right: 9px;
+}
+.cal-block{
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+.cal-first{
+  display: flex;
+  padding:10px 10px 10px 10px;
+  width: 100%;
+  background-color: white;
+  height: auto;
+}
+.title{
+  color: red;
+  padding-right: 10px;
+}
+.circle{
+  width:30px;
+  height:30px;
+  margin-top: -10px;
+  padding-right: 10px;
+  padding-top: 8px;
+}
+.symble{
+  width:10px;
+  height:10px;
+  padding-right: 5px;
+  padding-top: 5px;
+}
+.extra{
+  position: absolute;
+  right: 10px;
+  display: flex;
+}
+.hint{
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 15px;
+}
+
+.item-list{
+  background-color: white;
+  width: 100%;
+  height: auto;
+  padding: 10px 10px 10px 10px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+.manjian{
+  width: 27px;
+  height: 18px;
+}
+.item-content{
+  display: flex;
+  padding: 10px 10px 10px 10px;
+  font-size: 15px;
+}
+.item-extra{
+  position: relative;
+  display: flex;
+}
+.require{
+  color: rgba(0, 0, 0, 0.6);
+  font-size: 15px;
+}
+.vochure{
+  position: absolute;
+  right: 20px;
+  font-size: 15px;
+  color: red;
+}
+.checked{
+  width: 15px;
+  height: 15px;
+  padding-top: 50px;
+}
+.ice{
+  width: 78px;
+  height: 102px;
+  padding: 0 10px 0 10px;
+}
+/* .jiajian image{
+  width: 30px;
+  height: 10px;
+} */
+.detail{
+  font-size: 13px;
+  width: 70%;
+}
+.function{
+  color: rgba(0, 0, 0, 0.5);
+}
+.price{
+  display: flex;
+  position: relative;
+  padding-top: 40px;
+  color: red;
+}
+.jiajian{
+  position: absolute;
+  right: 10px;
+}
+.shuzikuang{
+  width:90px;
+height:28px;
+right: 10px;
+position: absolute;
+z-index: 1;
+}
+.jia{
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  z-index: 2;
+  right:16px;
+  bottom:-21px;
+}
+.jian{
+  width: 15px;
+  height: 1px;
+  position: absolute;
+  z-index: 2;
+  right:80px;
+  bottom:-15px;
+}
+
+.extra-service{
+  width:90%;
+  margin-left:auto;
+  background-color:greenyellow;
+  margin-right:20px;
+}
+.firstLine{
+  display: flex;
+  position: relative;
+  padding: 10px;
+  font-size: 10px;
+  color: orangered;
+}
+.secondLine{
+  display: flex;
+  position: relative;
+  padding: 10px;
+  font-size: 10px;
+  color: orangered;
+}
+.firstLine image{
+  width: 8px;
+  height: 6px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+.secondLine image{
+  width: 6px;
+  height: 8px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+.number{
+  position: absolute;
+  color: rgba(0, 0, 0, 0.5) !important;
+  right: 30px;
+}
+.service{
+  margin-left: 20px;
+}

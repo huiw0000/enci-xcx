@@ -1,0 +1,40 @@
+/* pages/path/path.wxss */
+.title{
+  width: 100%;
+  display: flex;
+  position: relative;
+  background-color: white;
+}
+.title image{
+  position: absolute;
+  width:15px;
+  height:20px;
+  left: 20px;
+}
+.my-foot{
+  margin-left: auto;
+  margin-right:auto;
+  font-weight: bold;
+}
+page {
+  background-color: #e6e6e6;
+}
+
+.second{
+  display: flex;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px; 
+  position: relative;
+}
+.second-first{
+  opacity: 0.5;
+  font-size: 15px;
+  padding-left: 10px;
+}
+.second-second{
+  font-size: 15px;
+  position: absolute;
+  right: 10px;
+  color:orange;
+}

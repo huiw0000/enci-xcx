@@ -1,0 +1,10 @@
+<!--component/path-item-list/path-item-list.wxml-->
+<view class='item-list'>
+<image class='item-list-image' src='../../static/image/ice.png'/>
+<view class='item-list-word'>
+  <view>三星全自动滚筒洗衣机 8公斤自动加热 智能变频</view>
+  <view>5499.00</view>
+<view class='line'></view>
+</view>
+<view class='item-list-more'>...</view>
+</view>

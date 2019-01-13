@@ -1,0 +1,19 @@
+<!--component/type-filter/type-filter.wxml-->
+<view class='type-filter'>
+  <view class='type-item'>
+    品牌
+    <image src='../../static/search/expand2.png'/>
+  </view>
+  <view class='type-item'>
+    产品类型
+    <image src='../../static/search/expand2.png'/>
+  </view>
+  <view class='type-item'>
+    电视类型
+    <image src='../../static/search/expand2.png'/>
+  </view>
+  <view class='type-item'>
+    洗涤容量
+    <image src='../../static/search/expand2.png'/>
+  </view>
+</view>

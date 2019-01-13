@@ -1,0 +1,10 @@
+<!--component/navigation-new/navigation-new.wxml-->
+<view class='nagivation-new' style='display:flex'>
+  <view class='nagitation-item'>关注</view>
+  <view class='notify'>2</view>
+  <view class='nagitation-item active'>推荐</view>
+  <view class='nagitation-item'>视频</view>
+  <view class='nagitation-item'>明星说</view>
+  <view class='nagitation-item'>潮南派</view>
+  <view class='nagitation-item'>女神</view>
+</view>

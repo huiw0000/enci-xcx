@@ -1,0 +1,43 @@
+<!--component/item-list/item-list.wxml-->
+<view class='nagivation-new' style='display:flex'>
+  <view class='nagitation-item'>关注</view>
+  <view class='notify'>2</view>
+  <view class='nagitation-item active'>推荐</view>
+  <view class='nagitation-item'>视频</view>
+  <view class='nagitation-item'>明星说</view>
+  <view class='nagitation-item'>潮南派</view>
+  <view class='nagitation-item'>女神</view>
+</view>
+
+<view>
+<view class='item-group'>
+  <view bindtap='goods' class='first-item'></view>
+<view bindtap='goods' class='second'>
+  <image class='image-go' src="../../static/image/hat.png" />
+  <view class='word-format'>长按识别二维码</view>
+  <view class='content'>
+  <image class='image-title' src="../../static/image/hat.png" />
+    <view class='name-title'>元气少女</view>
+  <image class='image-like' src="../../static/image/heart.png" />
+  </view>
+</view>
+</view>
+<view class='item-group'>
+<view bindtap='goods' class='first-item'>
+<image class='image-go' src="../../static/image/hat.png" />
+  <view class='word-format'>长按识别二维码</view>
+  <view class='content'>
+  <image class='image-title' src="../../static/image/hat.png" />
+    <view class='name-title'>元气少女</view>
+  <image class='image-like' src="../../static/image/heart.png" />
+  </view></view>
+<view style='margin-top:-20px' bindtap='goods' class='second'>
+<image class='image-go' src="../../static/image/hat.png" />
+  <view class='word-format'>长按识别二维码</view>
+  <view class='content'>
+  <image class='image-title' src="../../static/image/hat.png" />
+    <view class='name-title'>元气少女</view>
+  <image class='image-like' src="../../static/image/heart.png" />
+  </view></view>
+</view>
+</view>

@@ -1,0 +1,5 @@
+/* component/nine-square/nine-square.wxss */
+.Rectangle-1{
+  width: 109px;
+  height: 109px;
+}

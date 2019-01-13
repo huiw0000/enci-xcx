@@ -1,0 +1,13 @@
+/* component/new-path-navi/new-path-navi.wxss */
+.navi{
+  width: 100%;
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: white;
+}
+.navi-item{
+  width: 33.333%;
+  font-size: 15px;
+  padding-left: 35px;
+}

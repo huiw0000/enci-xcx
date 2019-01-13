@@ -1,0 +1,19 @@
+<!--component/profile-footer/profile-footer.wxml-->
+<view class='contain'>
+<view class='distance'>
+<view>8</view>
+  <view>商品收藏</view>
+</view>
+<view class='distance'>
+<view>6</view>
+  <view>店铺收藏</view>
+</view>
+<view class='distance'>
+<view>16</view>
+  <view>我的搭配</view>
+</view>
+<view class='distance'>
+<view>86</view>
+  <view>我的关注</view>
+</view>
+</view>

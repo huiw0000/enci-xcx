@@ -1,0 +1,64 @@
+page {
+  background-color: #e6e6e6;
+}
+
+.Rectangle-2 {
+  width: 100%;
+  height: 150px;
+  background-color: black;
+}
+
+.Rectangle-3 {
+  width:50%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.Symbol-1-2 {
+  width: 6px;
+  height: 12px;
+  display: inline-block;
+}
+
+.Rectangle-4 {
+  width: 89.33%;
+  height: 40px;
+  border-style: solid;
+  border-width: 1px 0px 0px 0px;
+  border-color: #e6e6e6;
+  font-size: 14px;
+  color: #1d1d1d;
+  display: inline-block;
+}
+
+.Rectangle-4-more{
+  opacity:0.4;display:inline-block;width:98.2%;margin-top:10px;
+}
+
+.Rectangle-5{
+  padding: 20px;
+}
+
+.text-title{
+  font-size: 18px;
+color: #1D1D1D;
+text-align: justify;
+}
+.Rectangle-7{
+  width:335px;
+  height:335px;
+  text-align: center;
+}
+.Rectangle-8{
+  width:200px;
+  height:200px;
+  text-align: center;
+}
+
+.navigation-new-1{
+  background:white;
+  margin-top:10px;
+}

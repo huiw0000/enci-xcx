@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "item-list": "../../component/item-list/item-list",
+    "product-no-price": "../../component/product-no-price/product-no-price",
+    "product-one-pic": "../../component/product-one-pic/product-one-pic",
+    "search-bar": "../../component/search-bar/search-bar",
+    "navigation-new": "../../component/navigation-new/navigation-new","product-type-square":"../../component/product-type-square/product-type-square",
+    "product-type-rs": "../../component/product-type-rs/product-type-rs",
+    "product-type-rectangle": "../../component/product-type-rectangle/product-type-rectangle",
+    "new-tab": "../../component/new-tab/new-tab",
+    "nine-square": "../../component/nine-square/nine-square"
+  }
+}

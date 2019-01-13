@@ -1,0 +1,52 @@
+/* component/new-filter/new-filter.wxss */
+.item-contain{
+  display: flex;
+  width: 25%;
+  height: auto;
+  padding-left: 20px;
+}
+.item-contain view:first-child{
+  color:orange;
+  font-size: 15px;
+}
+.item-contain image{
+  width: 12%;
+  height:30%;
+  padding-top: 8px;
+}
+.item-list{
+  display: flex;
+  width:80%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-right: 1px solid rgba(0, 0, 0, 0.1);
+}
+.item-list-2{
+  display: flex;
+  width:20%;
+  position: relative;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color:orange;
+  font-size: 15px;
+}
+.item-list-2 view{
+  position:absolute;
+  right:20px;
+}
+.item-list-2 image{
+  width: 15%;
+  height:23%;
+  padding-top: 4px;
+  position:absolute;
+  right:8px;
+}
+
+.active{
+  color: black !important; 
+}
+.container-list{
+  width: 100%;
+  display: flex;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}

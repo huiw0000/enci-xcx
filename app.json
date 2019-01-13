@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/path/path",
+    "pages/profile/profile",
+    "pages/goodDetails/goodDetails",
+    "pages/moreGoods/moreGoods",
+    "pages/sorting/sorting",
+    "pages/shoppingCar/shoppingCar",
+    "pages/adding/adding",
+    "pages/pay/pay",
+    "pages/review/review"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Enci商城",
+    "navigationBarTextStyle": "black"
+  }
+}

@@ -1,0 +1,23 @@
+<!--component/new-filter/new-filter.wxml-->
+<view class='container-list'> 
+<view class='item-list'>
+  <view class='item-contain'>
+    <view>综合</view>
+    <image src='../../static/search/expand1.png'/>
+  </view>
+
+  <view class='item-contain'>
+    <view>综合</view>
+  </view>
+
+  <view class='item-contain'>
+  <view>有货优先</view>
+    <image src='../../static/search/expand1.png'/>
+  </view>
+</view>
+
+  <view class='item-list-2'>
+  <view>筛选</view>
+    <image src='../../static/search/filter.png'/>
+</view>
+</view>

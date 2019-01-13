@@ -1,0 +1,78 @@
+<!--pages/review/review.wxml-->
+<view class='total'>
+  <image class='title-image' src='../../static/image/ice.png'/>
+  <view class='first'>
+  <image class='first-image' src='../../static/review/description.png'/>
+  <view>满意</view>
+  </view>
+  <view class='second'>
+  <image class='second-image' src='../../static/review/withoutPerfect.png'/>
+  <view>一般</view>
+  </view>
+  <view class='third'> 
+  <image class='third-image' src='../../static/review/withoutPerfect.png'/>
+  <view>不满意</view>
+  </view>
+</view>
+
+
+<view class='inputArea'>
+<view class='review'>
+  <textarea placeholder='宝贝满足您的期待吗? 说说您的使用心得, 分享给想买的他们吧!'>
+  </textarea>
+  <view class='share'>
+  <image class='pics' src='../../static/review/pics.png'/>
+  <view class='pics-word'>添加照片</view>
+  </view>
+</view>
+</view>
+
+<view class='noName-block'>
+  <image class='noName-image' src='../../static/review/noName.png'/>
+  <view class='noName'>匿名</view>
+  <view class='help'>您的评价能帮助其他小伙伴呦</view>
+</view>
+
+<view class='rate'>
+  <view class='storeTitle'>
+    <image src='../../static/bookingList/store.png'/>
+    <view>店铺评分</view>
+  </view>
+  <view class='itemList'>
+    <view class='description'>
+    相符描述
+    </view>
+    <view class='rates'>
+      <image src='../../static/review/description.png'/>
+      <image src='../../static/review/description.png'/>
+      <image src='../../static/review/description.png'/>
+      <image src='../../static/review/description.png'/>
+      <image src='../../static/review/description.png'/>
+    </view>
+  </view>
+  <view class='itemList'>
+    <view class='carriage'>
+    物流服务
+    </view>
+    <view class='rates'>
+      <image src='../../static/review/carriage.png'/>
+      <image src='../../static/review/carriage.png'/>
+      <image src='../../static/review/carriage.png'/>
+      <image src='../../static/review/carriage.png'/>
+      <image src='../../static/review/carriage.png'/>
+    </view>
+  </view>
+  <view class='itemList'>
+    <view class='service'>
+    服务态度
+    </view>
+    <view class='rates'>
+      <image src='../../static/review/service.png'/>
+      <image src='../../static/review/service.png'/>
+      <image src='../../static/review/service.png'/>
+      <image src='../../static/review/service.png'/>
+      <image src='../../static/review/service.png'/>
+    </view>
+  </view>
+  <button class='submit'>提交</button>
+</view>

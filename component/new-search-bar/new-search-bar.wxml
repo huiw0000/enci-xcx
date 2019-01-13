@@ -1,0 +1,17 @@
+<!--component/new-search-bar/new-search-bar.wxml-->
+<view class='search-bar'>
+  <view>
+  <image src='../../static/search/search.png'/> 
+  <view class='search-item'>洗衣机
+  <image style='width:10px;height:10px;margin-left:5px' src='../../static/search/close.png'/>
+  </view> 
+  </view>
+  <view>
+  <image src='../../static/search/expand.png'/>  
+  </view>
+</view>
+
+<view class='Rectangle-1-1'>
+      <image class='Symbol-1-1' src="../../static/image/search.png" />
+      <input class="Rectangle-1-1-text" placeholder='搜索您感兴趣的内容' placeholder-class='Rectangle-1-1-text-ph'></input>
+    </view>

@@ -1,0 +1,35 @@
+/* component/path-item-list/path-item-list.wxss */
+.item-list{
+  background-color: white;
+  display: flex;
+  width:100%;
+  position: relative;
+}
+.item-list-image{
+  width: 17vw;
+  height: 23vw;
+  padding:15px 10px 15px 10px;
+}
+.item-list-word{
+  padding-top: 30px;
+  position: relative;
+  font-size: 15px;
+  width: 60%;
+}
+.item-list-word view:last-child{
+  color:orange;
+  padding-top: 5px;
+}
+.item-list-more{
+  width:10%;
+  position: absolute;
+  bottom: 20px;
+  right: 0;
+}
+.line{
+  border-bottom: 1px solid black;
+  position: absolute;
+  bottom: 1px;
+  width:100%;
+  opacity: 0.5;
+}
